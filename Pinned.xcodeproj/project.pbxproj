@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A8B652FE1DD32628003D7DE6 /* AboveAllElse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AboveAllElse.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8B652FE1DD32628003D7DE6 /* Pinned.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pinned.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8B653011DD32628003D7DE6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8B653031DD32628003D7DE6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A8B653051DD32628003D7DE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		A8B652FF1DD32628003D7DE6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A8B652FE1DD32628003D7DE6 /* AboveAllElse.app */,
+				A8B652FE1DD32628003D7DE6 /* Pinned.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -64,9 +64,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A8B652FD1DD32628003D7DE6 /* AboveAllElse */ = {
+		A8B652FD1DD32628003D7DE6 /* Pinned */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A8B6530D1DD32628003D7DE6 /* Build configuration list for PBXNativeTarget "AboveAllElse" */;
+			buildConfigurationList = A8B6530D1DD32628003D7DE6 /* Build configuration list for PBXNativeTarget "Pinned" */;
 			buildPhases = (
 				A8B652FA1DD32628003D7DE6 /* Sources */,
 				A8B652FB1DD32628003D7DE6 /* Frameworks */,
@@ -76,9 +76,9 @@
 			);
 			dependencies = (
 			);
-			name = AboveAllElse;
+			name = Pinned;
 			productName = AboveAllElse;
-			productReference = A8B652FE1DD32628003D7DE6 /* AboveAllElse.app */;
+			productReference = A8B652FE1DD32628003D7DE6 /* Pinned.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A8B652F91DD32628003D7DE6 /* Build configuration list for PBXProject "AboveAllElse" */;
+			buildConfigurationList = A8B652F91DD32628003D7DE6 /* Build configuration list for PBXProject "Pinned" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A8B652FD1DD32628003D7DE6 /* AboveAllElse */,
+				A8B652FD1DD32628003D7DE6 /* Pinned */,
 			);
 		};
 /* End PBXProject section */
@@ -273,7 +273,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A8B652F91DD32628003D7DE6 /* Build configuration list for PBXProject "AboveAllElse" */ = {
+		A8B652F91DD32628003D7DE6 /* Build configuration list for PBXProject "Pinned" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A8B6530B1DD32628003D7DE6 /* Debug */,
@@ -282,7 +282,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A8B6530D1DD32628003D7DE6 /* Build configuration list for PBXNativeTarget "AboveAllElse" */ = {
+		A8B6530D1DD32628003D7DE6 /* Build configuration list for PBXNativeTarget "Pinned" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A8B6530E1DD32628003D7DE6 /* Debug */,

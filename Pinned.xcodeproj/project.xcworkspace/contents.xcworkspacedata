@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AboveAllElse.xcodeproj">
+      location = "self:/Users/radther/Documents/Xcode Projects/AboveAllElse/Pinned.xcodeproj">
    </FileRef>
 </Workspace>
